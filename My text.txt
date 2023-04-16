@@ -1,0 +1,21 @@
+=> git holo file or code changes moniroring system. that track it version wise.
+=> Online or clould origin jekhane amra amader changes gula worldwide track rakte pari.
+=> initialy we stay master brunch
+=> Remove git folder commit ==rm -rf .git
+-------------------------command--------------------
+to create file = touch index.html(file name)
+to create new folder = mkdir (file name)
+to add root directory file in git = git add .
+to check git status = git status
+o remove changes from git = git reset
+to rmove remote origin = git remove remote origin
+to add another origin=git remote add origin 
+to solve rejected error= git push --set-upstream origin main -f
+to create readme.md file= echo "#test2">>README.md
+you have change something from remote origin for push forst time you have to pull
+== git pull
+then==git push
+to see present brunch== git branch
+to create new brunch = git branch dev
+to change branch = git checkout dev (branch name)
+marge dev branch with main branch branch ==git merge dev 
